@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lineagetake",
+  "private_key_id": "10120b5ef7486e3cb93a0a7eec40ffb0cbf83b76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3YROEhAElcuFN\nc5a6hG6FJGf0hraZLI+P0CJ1nDPFczadCyljgutGh8OcL0qxPLWa5QXGyCG+0KXr\ngebv3rIsHkFInpH7nt+6kNDc/pXqodTU6QGps/DBrnylLm30mr7LiUDPiYPRPZvE\nK0vUaofr7FQoqbAV3j+yLU+hmj6HXAw00ju85GHCM/R8+3YZir7nWMd5aSsqZke2\nXJJmk8T5Z1tmaQsCsqjQYr4Tnusot9m5JckdFfNQwZguMWHQsSdDSo0hUla/l+Nb\nZHSYT5WpL5GoTz/BUEop3uMcQ2kFaDWNRGxNpZTw1RSl03Mk/gVCCDPctSEQU1jO\ntij4qjulAgMBAAECggEAC7vsPWHwrIEH84ZhNNEAZ8gfLR7epHldEVktOfneDTUq\nCjgFNLnTTMQnYJaHxhoUo9NNAJMx/O1fJJf/cJtp1W1f2jdSr4y9vl4sY0EY04v5\n8WAcjAujLP2O5RyjYBAeg9R7ShxqS9NlpNKWwQJKbW6wqZkcFvYi/MeDTYZawxtQ\nEq2/Ev8QG8vzs9+OsaQTOqGRMrySC/z5EkY/UDvhzVsk/rEAyv/VBu0Iu3rXcRRj\nhZEXb29Kq3USXyKOAr4X/PZBgeZYEVNsSSeVJ0BaHoVOJtt+TnUUzS3NHrPlck0b\nUM73hHKbnY6l+1JFzRYB7KAdqYWfhXOm4nxVG8y0IQKBgQDiETZZsgYIWxyaYNvW\nC4lG8B4sA7IFxcpfYOqBb64vZWGy072ZYeSy/3NLZqfyGg9L7HleZz/IQ5ams1SN\niSX8GJA1wKDyTNeFNuTqT7a0hiYT50R7XHe0RGKW5sWZjCINBEVKRWAUpqAaFYOS\nSRiUD9J/TWPL41FgYK7n2JDdBQKBgQDPqOh0UtKkdOtg+l1bzcJVwzMwwkkuM0m7\nPIjlpguRV2L9ufKWowztXGAIKlfH4nyqg5cBRIG7BxQ21zGNOsinJv09MePiWs1A\ncbgDl2bVwnZe8QfEE5ITyDfSZGI5Vc2kWyy+ooa0RoH8R6mP68uJsAryFJFpqYe9\n2R1U96MmIQKBgGGBgQrA8T8rZTPk8QzqXuR87taXJXK98+Kdn6gCboO8253RHCcL\nBSR7b9Qmy+tteAmMTnD8YZNUK6dtE9wUOpD4W0MD+adoo1Cu859okGperg/JoUz/\n/hV/pXJmyPXIbmtk2yoEsENX9xgpDV3ML1C1XlpQG+o1+sRyDx6q1xitAoGARAEW\njvGIld7MLmgPJr9NQvS30OHvQTf+j1iVpE8qPqCVhG3eqcIfu6Oit0nWkVj0ZorN\natbafTsmPYdfbNaxWzwDdoTeEgSWbuJO1q5AOQSD6zeXyXh3QA8zaK0DFa+ptoc9\nMfjbkDH+43U8bCtV7nM+QmTF8gpYr61oU6j9PsECgYEAj7obDmD8d51t3WlxTmaU\nxT8RnxrTOFdHpn3KNTWsF2P3FshWpTXOWT1YEAAfX3EiKaBduXZLaYqMiTEStx9A\npdTTfARxXPWwBbCTAMZAuUL5VTV45GxuhKhaMLlUVhL1WVJHu3bGpCQIrUosk6id\nv2+2AWW8SXqsUBA30i8ptNk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lineagetake@lineagetake.iam.gserviceaccount.com",
+  "client_id": "110646313346689987627",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lineagetake%40lineagetake.iam.gserviceaccount.com"
+}
