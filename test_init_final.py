@@ -975,7 +975,7 @@ while True:
 							result = wks.acell(basicSetting[16]).value
 
 							embed = discord.Embed(
-									description= '```' + SearchID + ' 님이 분배못받은 다이야는 총 ' + result + ' 다이야 입니다. 분배내역은 "천녀유혼/쿵푸허슬/아비정전/홍콩영화/첩혈쌍웅" 이분들중에 요청하세요!!```',
+									description= '```' + SearchID + ' 님이 분배못받은 다이야는 총 ' + result + ' 입니다!!```',
 									color=0xff00ff
 									)
 							await msg.channel.send(embed=embed, tts=False)
